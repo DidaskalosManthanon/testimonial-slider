@@ -54,7 +54,7 @@ main {
     box-shadow: 0 4px 8px rgba(0, 0, 0, .3);
     padding: 20px;
     color: white;
-    text-align: center;
+    text-align: left;
     position: relative;
     margin-top: 20px;
 }
