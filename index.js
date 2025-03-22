@@ -26,7 +26,7 @@ const testimonials = [
     },
     {
         name: "Lilea",
-        photo: "./pics/lile.webp",
+        photo: "./pics/lilea.webp",
         text:  "J’ai pris des cours avec Laurent pendant un peu plus d’un mois pour préparer mes partiels. Il a été super pédagogue, m’a écoutée et a répondu à toutes mes questions. Grâce à lui j’ai pu passer mes partiels beaucoup plus sereine. Je le recommande à 100 pour cent ! Merci encore Laurent !"
     },
     {
